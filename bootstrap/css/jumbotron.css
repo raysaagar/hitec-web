@@ -1,0 +1,118 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.topmargin {margin-top:20px;}
+
+.btn-default {margin-bottom:25px;}
+
+.navbar-inverse
+{
+	background-color:#111;
+}
+.navbar-toggle {
+	border-radius: 2px;
+}
+.navbar-brand {
+	 font-family: â€˜Metrophobicâ€™, Arial, serif; font-weight: 400;
+	 color:#ddd!important;
+	 }
+
+.jumbotron {
+	/*background: url("../../assets/img/image.jpg") no-repeat;*/
+	background-color:#15a589;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	background-size: 100%;
+	padding-bottom: 20px;
+	margin-bottom:0px;
+	color:#eee;
+}
+
+.splash {
+	text-align:center;
+}
+
+.splash h1{
+	font-family: â€˜Metrophobicâ€™, Arial, serif; font-weight: 400;
+	margin:0px auto;
+}
+#signup_button {
+	margin-top:15px;
+
+}
+.feature {
+	/*border-top:1px solid #000;*/
+	padding-top:10px;
+}
+
+.feature p {
+	color: #555;
+	}
+
+#projects, #schedule, #sponsors {border-top: 1px solid #BBBBBB;
+padding-top: 10px;
+margin-top:30px;
+}
+.sponsortitle {
+	border-bottom: 1px solid #E7E7E7;
+	margin-top: 25px;
+	padding-top: 15px;
+	color: #888;
+	text-align:center;
+	}
+	#endless {margin-top: 30px;}
+.feature .img-responsive {
+	margin: 0px auto;
+}
+
+
+@media (max-width: 400px)
+{
+	.nophone {display:none;}
+
+	.jumbotron h5 {font-size:18px;
+	margin-top:0px;}
+}
+
+@media (max-width: 500px)
+{
+.jumbotron {
+	-webkit-background-size: 200%;
+	-moz-background-size:200%;
+	background-size: 200%;
+	/*background-position: -300px 0;*/
+	padding-bottom: 50px;
+	}
+.nophone {
+	font-size: 28px!important;
+	margin-bottom: 30px!important;
+	margin-top: 15px!important;
+}
+}
+
+@media (min-width: 500px) and (max-width: 767px)
+{
+	.jumbotron {
+	-webkit-background-size: 140%;
+	-moz-background-size:140%;
+	background-size: 140%;
+	/*background-position: -300px 0;*/
+	padding-bottom: 50px;
+	}
+	.jumbotron h1 {
+		margin-bottom:30px;
+		font-size:30px;
+	}
+	.nomobile {display:none;}
+}
+
+@media screen and (min-width: 768px){
+	.jumbotron h1 {
+		margin-bottom:60px;
+		font-size:40px;
+	}
+}
+
