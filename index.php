@@ -65,7 +65,7 @@
      -->
       <div class = "splash">
       	<h1 class="nophone">Bringing TEC to a new level.</h1>
-      	<h3>HITEC</h3>
+      	<h3 class="spacing">HITEC</h3>
       	<h4>Innovation ▪ Technology ▪ Entrepreneurship</h4>
       </div>
     </div>
@@ -91,74 +91,76 @@
       <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h4>Member Organizations</h4>
-          <h5><a href="http://www.developersfordevelopment.org">Developers for Development</a></h5>
+          <h3 class="smallcaps spacing underline">Member Organizations</h3>
+          <h4><a href="http://www.developersfordevelopment.org">Developers for Development</a></h4>
           <div class="tabbed">
-            <h6>Use technology to make a difference in the world.</h6>
+            <h5>Use technology to make a difference in the world.</h5>
           </div>
           
-          <h5><a href="">Engineers Without Borders</a></h5>
+          <h4><a href="">Engineers Without Borders</a></h4>
           <div class="tabbed">
-            <h6>Sustainable engineering to change lives.</h6>
+            <h5>Sustainable engineering to change lives.</h5>
           </div>
 
-          <h5><a href="http://www.hackharvard.org">HackHarvard</a></h5>
+          <h4><a href="http://www.hackharvard.org">HackHarvard</a></h4>
           <div class="tabbed">
-            <h6>Bringing the world of tech entrepreneurship to Harvard.</h6>
+            <h5>Bringing the world of tech entrepreneurship to Harvard.</h5>
           </div>
 
-          <h5><a href="http://www.harvardentrepreneurshipforum.com/">Harvard College Entrepreneurship Forum</a></h5>
+          <h4><a href="http://www.harvardentrepreneurshipforum.com/">Harvard College Entrepreneurship Forum</a></h4>
           <div class="tabbed">
-            <h6>Bringing in the next class of entrepreneurs.</h6>
+            <h5>Bringing in the next class of entrepreneurs.</h5>
           </div>
 
-          <h5><a href="http://www.hcs.harvard.edu">Harvard Computer Society</a></h5>
+          <h4><a href="http://www.hcs.harvard.edu">Harvard Computer Society</a></h4>
           <div class="tabbed">
-            <h6>People. Technology. Awesome.</h6>
+            <h5>People. Technology. Awesome.</h5>
           </div>
 
-          <h5><a href="http://www.hcura.org/">Harvard College Undergraduate Research Association</a></h5>
+          <h4><a href="http://www.hcura.org/">Harvard College Undergraduate Research Association</a></h4>
           <div class="tabbed">
-            <h6>Enriching the undergraduate research experience.</h6>
+            <h5>Enriching the undergraduate research experience.</h5>
           </div>
 
-          <h5><a href="http://www.siam.org/students/chapters/current/harvard.php">Society for Industrial and Applied Mathematics</a></h5>
+          <h4><a href="http://www.siam.org/students/chapters/current/harvard.php">Society for Industrial and Applied Mathematics</a></h4>
           <div class="tabbed">
-            <h6>Building connections between the communities of Mathematics, Science, and Technology</h6>
+            <h5>Connecting the worlds of Mathematics, Science, and Technology</h5>
           </div>
 
         </div>
 
         <!-- Column 2 -->
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h4>&nbsp;</h4>
+          <h3>&nbsp;</h3>
 
-          <h5><a href="">Biomedical Engineering Society</a></h5>
+          <h4><a href="">Biomedical Engineering Society</a></h4>
           <div class="tabbed">
-            <h6>Biology meets Technology.</h6>
+            <h5>Biology meets Technology.</h5>
           </div>
 
-          <h5><a href="http://www.dlp.io">Digital Literacy Project</a></h5>
+          <h4><a href="http://www.dlp.io">Digital Literacy Project</a></h4>
           <div class="tabbed">
-            <h6>Expanding access to technology one community at a time.</h6>
+            <h5>Expanding access to technology one community at a time.</h5>
           </div>
 
-          <h5><a href="http://www.hcs.harvard.edu/hces">Harvard College Engineering Society</a></h5>
-          <h6 class="tabbed">Engineering at its finest.</h6>
-
-          <h5><a href="http://www.harvardventures.org">Harvard College Venture Partners</a></h5>
+          <h4><a href="http://www.hcs.harvard.edu/hces">Harvard College Engineering Society</a></h4>
           <div class="tabbed">
-            <h6>Launching student entrepreneurs and fostering collaboration.</h6>
+            <h5>Engineering at its finest.</h5>
           </div>
 
-          <h5><a href="http://www.hcs.harvard.edu/~harvardwomenincs/">Women in Computer Science</a></h5>
+          <h4><a href="http://www.harvardventures.org">Harvard College Venture Partners</a></h4>
           <div class="tabbed">
-            <h6>Creating a network of women in technology.</h6>
+            <h5>Launching student entrepreneurs and fostering collaboration.</h5>
           </div>
 
-          <h5><a href="http://rfcbots.com/">Robotics Football Club Cambridge</a></h5>
+          <h4><a href="http://www.hcs.harvard.edu/~harvardwomenincs/">Women in Computer Science</a></h4>
           <div class="tabbed">
-            <h6>Engineering + Computer Science = Soccer</h6>
+            <h5>Creating a network of women in technology.</h5>
+          </div>
+
+          <h4><a href="http://rfcbots.com/">Robotics Football Club Cambridge</a></h4>
+          <div class="tabbed">
+            <h5>Engineering + Computer Science = Soccer</h5>
           </div>
 
         </div>
@@ -174,12 +176,33 @@
       <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h3 class="smallcaps">Founding Team</h3>
+          <h3 class="smallcaps underline">Founding Team</h3>
           <h4><a href="">Saagar Deshpande</a></h4>
           <div class="tabbed">
             <h5>Co-Founder</h5>
             <h6>Harvard '14</h6>
             <h6>Harvard Computer Society</h6>
+          </div>
+
+          <h4><a href="">Brian Truong</a></h4>
+          <div class="tabbed">
+            <h5>Executive Board</h5>
+            <h6>Harvard '15</h6>
+            <h6>Harvard College Venture Partners</h6>
+          </div>
+
+          <h4><a href="">Anne Madoff</a></h4>
+          <div class="tabbed">
+            <h5>Executive Board</h5>
+            <h6>Harvard '15</h6>
+            <h6>Women In Computer Science</h6>
+          </div>
+
+          <h4><a href="">Victoria Gu</a></h4>
+          <div class="tabbed">
+            <h5>Executive Board</h5>
+            <h6>Harvard '15</h6>
+            <h6>Developers For Development</h6>
           </div>
 
         </div>
@@ -195,6 +218,20 @@
             <h6>Developers For Development</h6>
           </div>
 
+          <h4><a href="">Allison Bucholtz-Au</a></h4>
+          <div class="tabbed">
+            <h5>Executive Board</h5>
+            <h6>Harvard '15</h6>
+            <h6>HackHarvard</h6>
+          </div>
+
+          <h4><a href="">Mark Grozen-Smith</a></h4>
+          <div class="tabbed">
+            <h5>Executive Board</h5>
+            <h6>Harvard '15</h6>
+            <h6>HackHarvard</h6>
+          </div>
+
         </div>
       </div>
       <div class="row">
@@ -208,11 +245,17 @@
       <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h3 class="smallcaps">Signature Fall Events</h3>
+          <h3 class="smallcaps spacing underline">Signature Fall Events</h3>
+          
+          <h4 class="smallcaps">Tecs-Mix</h4>
+          <div class="tabbed">
+            <h5>Semester Introduction Event</h5>
+            <h5>&nbsp;</h5>
+          </div>
+
           <h4 class="smallcaps">Harvard E3</h4>
           <div class="tabbed">
             <h5>Engineering Meets Computer Science</h5>
-            <h6>Fall Semester</h6>
             <h6>Past Speakers: </h6>
           </div>
 
@@ -220,12 +263,11 @@
 
         <!-- Column 2 -->
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h3 class="smallcaps">Signature Spring Events</h3>
+          <h3 class="smallcaps spacing underline">Signature Spring Events</h3>
 
           <h4 class="smallcaps">Harvard I/O</h4>
           <div class="tabbed">
             <h5>Technology and Entrepreurship</h5>
-            <h6>Fall Semester</h6>
             <h6>Past Speakers: </h6>
           </div>
 
@@ -242,7 +284,7 @@
       <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h3 class="smallcaps">Sponsors</h3>
+          <h3 class="smallcaps spacing underline">Sponsors</h3>
           
 
         </div>
@@ -264,7 +306,7 @@
       <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
-          <h3 class="smallcaps">Alumni Board</h3>
+          <h3 class="smallcaps spacing underline">Alumni Board</h3>
           
 
         </div>

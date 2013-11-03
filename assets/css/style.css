@@ -2,10 +2,14 @@
 	margin: 0 0 0 20px;
 }
 
-.smallcaps {font-variant:small-caps;}
-
 .line {
 	border-top: 1px solid #BBBBBB;
 	padding-top: 10px;
 	margin-top:30px;
 }
+
+.smallcaps {font-variant:small-caps;}
+
+.spacing {letter-spacing:2px;}
+
+.underline {text-decoration:underline;}
