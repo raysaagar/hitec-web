@@ -47,9 +47,10 @@
         <div class="navbar-collapse collapse" id="navbar-scroller">
           <ul class="nav navbar-nav" >
             <li class="active"><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="#founders">Founding Team</a></li>
             <li><a href="#events">Events</a></li>
             <li><a href="#sponsors">Sponsors</a></li>
+            <li><a href="#alumni">Alumni Board</a></li>
           </ul>
         </div><!--/.navbar-collapse -->
       </div>
@@ -74,7 +75,7 @@
       <div class="row splash">
       	<h3>HITEC is the largest undergraduate technology and entrepreneurship collaboration at Harvard</h3>
       </div>
-      <p>Organized by HCS, D4D, HCVP, Hack Harvard, HCEF, DLP, and others, HITEC aims to // do things. //</p>
+      <p>Organized by HCS, D4D, HCVP, Hack Harvard, HCEF, DLP, and others, HITEC aims to create a more cohesive experience for students and with promoting a stronger community for technologists on campus. </p>
 
       <!--
       <div class="row splash">
@@ -87,48 +88,77 @@
       </div>
       -->
 
+      <!-- Column 1 -->
       <div class="row topmargin">
         <div class="col-xs-12 col-md-6 col-lg-6">
           <h4>Member Organizations</h4>
-          <h5><a href="www.developersfordevelopment.org">Developers for Development</a></h5>
+          <h5><a href="http://www.developersfordevelopment.org">Developers for Development</a></h5>
           <div class="tabbed">
             <h6>Use technology to make a difference in the world.</h6>
           </div>
+          
+          <h5><a href="">Engineers Without Borders</a></h5>
+          <div class="tabbed">
+            <h6>Sustainable engineering to change lives.</h6>
+          </div>
 
-          <h5><a href="www.hackharvard.org">HackHarvard</a></h5>
+          <h5><a href="http://www.hackharvard.org">HackHarvard</a></h5>
           <div class="tabbed">
             <h6>Bringing the world of tech entrepreneurship to Harvard.</h6>
           </div>
-          <h5><a href="http://www.harvardentrepreneurshipforum.com/">Harvard College Entrepreneurship Forum
-</a></h5>
+
+          <h5><a href="http://www.harvardentrepreneurshipforum.com/">Harvard College Entrepreneurship Forum</a></h5>
           <div class="tabbed">
             <h6>Bringing in the next class of entrepreneurs.</h6>
           </div>
 
-          <h5><a href="www.hcs.harvard.edu">Harvard Computer Society</a></h5>
+          <h5><a href="http://www.hcs.harvard.edu">Harvard Computer Society</a></h5>
           <div class="tabbed">
             <h6>People. Technology. Awesome.</h6>
           </div>
 
+          <h5><a href="http://www.hcura.org/">Harvard College Undergraduate Research Association</a></h5>
+          <div class="tabbed">
+            <h6>Enriching the undergraduate research experience.</h6>
+          </div>
+
+          <h5><a href="http://www.siam.org/students/chapters/current/harvard.php">Society for Industrial and Applied Mathematics</a></h5>
+          <div class="tabbed">
+            <h6>Building connections between the communities of Mathematics, Science, and Technology</h6>
+          </div>
+
         </div>
+
+        <!-- Column 2 -->
         <div class="col-xs-12 col-md-6 col-lg-6">
           <h4>&nbsp;</h4>
 
-          <h5><a href="www.dlp.io">Digital Literacy Project
-</a></h5>
-          <h6 class="tabbed">Expanding access to technology one community at a time.</h6>
+          <h5><a href="">Biomedical Engineering Society</a></h5>
+          <div class="tabbed">
+            <h6>Biology meets Technology.</h6>
+          </div>
 
-          <h5><a href="www.hcs.harvard.edu/hces">Harvard College Engineering Society</a></h5>
+          <h5><a href="http://www.dlp.io">Digital Literacy Project</a></h5>
+          <div class="tabbed">
+            <h6>Expanding access to technology one community at a time.</h6>
+          </div>
+
+          <h5><a href="http://www.hcs.harvard.edu/hces">Harvard College Engineering Society</a></h5>
           <h6 class="tabbed">Engineering at its finest.</h6>
 
-          <h5><a href="www.harvardventures.org">Harvard College Venture Partners</a></h5>
+          <h5><a href="http://www.harvardventures.org">Harvard College Venture Partners</a></h5>
           <div class="tabbed">
             <h6>Launching student entrepreneurs and fostering collaboration.</h6>
           </div>
 
-          <h5><a href="www.hcs.harvard.edu/~harvardwomenincs/">Women in Computer Science</a></h5>
+          <h5><a href="http://www.hcs.harvard.edu/~harvardwomenincs/">Women in Computer Science</a></h5>
           <div class="tabbed">
             <h6>Creating a network of women in technology.</h6>
+          </div>
+
+          <h5><a href="http://rfcbots.com/">Robotics Football Club Cambridge</a></h5>
+          <div class="tabbed">
+            <h6>Engineering + Computer Science = Soccer</h6>
           </div>
 
         </div>
@@ -137,7 +167,119 @@
         <div class="col-xs-12 col-md-12 col-lg-12">
         </div>
       </div>
-    </div> <!-- /container  end about -->
+    </div> <!-- /container end about -->
+
+    <div class="container feature line" id = "founders">
+      
+      <!-- Column 1 -->
+      <div class="row topmargin">
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3 class="smallcaps">Founding Team</h3>
+          <h4><a href="">Saagar Deshpande</a></h4>
+          <div class="tabbed">
+            <h5>Co-Founder</h5>
+            <h6>Harvard '14</h6>
+            <h6>Harvard Computer Society</h6>
+          </div>
+
+        </div>
+
+        <!-- Column 2 -->
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3>&nbsp;</h3>
+
+          <h4><a href="">Joy Ming</a></h4>
+          <div class="tabbed">
+            <h5>Co-Founder</h5>
+            <h6>Harvard '15</h6>
+            <h6>Developers For Development</h6>
+          </div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+        </div>
+      </div>
+    </div> <!-- /container end founders -->
+
+    <div class="container feature line" id = "events">
+      
+      <!-- Column 1 -->
+      <div class="row topmargin">
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3 class="smallcaps">Signature Fall Events</h3>
+          <h4 class="smallcaps">Harvard E3</h4>
+          <div class="tabbed">
+            <h5>Engineering Meets Computer Science</h5>
+            <h6>Fall Semester</h6>
+            <h6>Past Speakers: </h6>
+          </div>
+
+        </div>
+
+        <!-- Column 2 -->
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3 class="smallcaps">Signature Spring Events</h3>
+
+          <h4 class="smallcaps">Harvard I/O</h4>
+          <div class="tabbed">
+            <h5>Technology and Entrepreurship</h5>
+            <h6>Fall Semester</h6>
+            <h6>Past Speakers: </h6>
+          </div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+        </div>
+      </div>
+    </div> <!-- /container end events -->
+
+    <div class="container feature line" id = "sponsors">
+      
+      <!-- Column 1 -->
+      <div class="row topmargin">
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3 class="smallcaps">Sponsors</h3>
+          
+
+        </div>
+
+        <!-- Column 2 -->
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3>&nbsp;</h3>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+        </div>
+      </div>
+    </div> <!-- /container end sponsors -->
+
+    <div class="container feature line" id = "alumni">
+      
+      <!-- Column 1 -->
+      <div class="row topmargin">
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3 class="smallcaps">Alumni Board</h3>
+          
+
+        </div>
+
+        <!-- Column 2 -->
+        <div class="col-xs-12 col-md-6 col-lg-6">
+          <h3>&nbsp;</h3>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+        </div>
+      </div>
+    </div> <!-- /container end alumni -->
 
 <!--
      <div class="container feature" id = "sponsors">
@@ -217,7 +359,7 @@
       <hr>
 	<div class="container">
       <footer>
-        <p>&copy; Harvard Innovation, Technology, and Entrepreneurship Collaboration 2013</p>
+        <p class="smallcaps">&copy; Harvard Innovation, Technology, and Entrepreneurship Collaboration <?php echo date("Y"); ?></p>
       </footer>
 	</div>
 
